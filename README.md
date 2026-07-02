@@ -51,12 +51,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Currently
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sarjanpatel22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarjanpatel22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-</p>
+- 📚 Deepening my skills in **web-application security** and **detection engineering**
+- 🧩 Practising on hands-on labs and expanding this portfolio
+- 🤝 Open to **cybersecurity / IT** opportunities where I can learn and contribute
 
 ---
 
