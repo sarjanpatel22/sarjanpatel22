@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sarjan Patel 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;Web+App+Security+%7C+SQLi+%7C+XSS;Vulnerability+Scanning+with+Nmap;SIEM+%26+Threat+Detection+with+Wazuh;Offensive+%2B+Defensive+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;Web+App+Security+%7C+SQLi+%7C+XSS;Vulnerability+Scanning+with+Nmap;SIEM+%26+Threat+Detection+with+Wazuh;Offensive+%2B+Defensive+Security;AI+Chatbots+%26+Automation+%28Python+%2B+Claude%29" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,6 +16,7 @@
 - 🌱 Focused on **web-application security**, **vulnerability assessment**, and **SIEM / threat detection**
 - 🧪 Everything is built and tested in isolated lab environments (Kali Linux + target VMs)
 - 🎓 Post-secondary credentials from **Cambrian College** — Ontario, Canada 🇨🇦
+- 🤖 Also build **custom AI chatbots & automations** — Python · Claude / OpenAI · retrieval-augmented (RAG)
 - 💬 Ask me about web-app pentesting, Nmap scanning, or standing up a Wazuh SIEM
 - 📫 Reach me at **sarjanpatel2201@gmail.com**
 
@@ -48,6 +49,14 @@
 | 🛡️ **[SIEM + Threat Detection Lab](https://github.com/sarjanpatel22/siem-threat-detection-lab)** | A **Wazuh** SIEM detecting **7 simulated attacks** with real-time **MITRE ATT&CK** mapping — 3,726+ alerts |
 | 🔍 **[Vulnerability Scanner](https://github.com/sarjanpatel22/vulnerability-scanner)** | **Python + Nmap** scanner that auto-assigns severity to open ports and generates a **PDF report** |
 | 🕸️ **[Web App Security Lab](https://github.com/sarjanpatel22/web-app-security-lab)** | Deliberately-vulnerable PHP app — **SQLi, XSS, brute-force, traversal** — each paired with a hardened fix |
+
+---
+
+## 🤖 AI & Automation Projects
+
+| Project | What it does |
+|---|---|
+| 🤖 **[Custom AI Chatbot](https://github.com/sarjanpatel22/custom-ai-chatbot)** | **RAG-grounded** support chatbot (**Python** + Claude / Ollama) that answers only from a business's own data — includes a 30-second demo video |
 
 ---
 
